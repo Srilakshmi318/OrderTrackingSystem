@@ -21,6 +21,7 @@ HTML5
 CSS3
 JavaScript (Vanilla JS)
 localStorage (Browser Storage)
+
 📂 Project Structure
 OrderTrackingSystem/
 │
@@ -28,12 +29,14 @@ OrderTrackingSystem/
 ├── style.css       # Styling of the application
 ├── script.js       # Logic for order management
 └── README.md       # Project documentation
+
 ▶️ How to Run the Project
 Download or clone the repository
 Open the folder in VS Code
 Locate index.html
 Double-click to open in browser
 Start using the application
+
 ⚙️ How It Works
 Orders are stored as JavaScript objects
 Each order contains:
@@ -47,12 +50,15 @@ Add Order
 Update Status
 Search Order
 Delete Order
+
 📈 Future Improvements
 Login system (Admin/User)
 Database integration (MySQL / Firebase)
 Sorting and filtering orders
 Export orders as PDF
-Advanced UI using frameworks (React / Bootstrap)
+Advanced UI using frameworks (React / Bootstrap) 
+
+
 👨‍💻 Author
 
 Srilakshmi
